@@ -21,4 +21,4 @@ To ignore the files from node_modules, I have tried adding
         "<node_internals>/**/*.js"
       ],
 ```
-in launch.json. After adding skipFiles, none of the breakpoints get triggered e.g. if I put a breakpoint on console log statement, debugger never stops. Is this a kn
+in launch.json. After adding skipFiles, none of the breakpoints get triggered e.g. if I put a breakpoint on console log statement, debugger never stops.
