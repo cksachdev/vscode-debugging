@@ -1,7 +1,7 @@
 # vscode-debugging
 repo to show issue with debugging in vscode
 
-My program contains only 2 lines of code:
+To demo the issue with debugging, below is the code which I am trying to run in vscode:
 ```
 const XLSX = require('xlsx');
 console.log("imported xlsx" + XLSX);
